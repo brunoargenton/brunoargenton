@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Your Name] GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+
+    h1 {
+      color: #0366d6;
+    }
+
+    h2 {
+      color: #6a737d;
+    }
+
+    p {
+      color: #24292e;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to [Your Name]'s GitHub Profile 👋</h1>
+
+  <h2>About Me</h2>
+
+  <p>Hello there! I'm [Your Name], an enthusiastic Electrical Engineer with a decade of experience in driving technological advancements and fostering strong business relationships. My journey has taken me through diverse industries and businesses across Brazil and other Latin American countries, ranging from energy and telecommunications to industrial robotics, smart home, security, and retail.</p>
+
+  <h3>Notable Achievements</h3>
+
+  <ul>
+    <li><strong>Solar Energy Innovation in Guatemala:</strong> Developed a brilliant business model for solar energy, contributing to positive changes in the energy landscape in Guatemala.</li>
+    <li><strong>Telecommunications Market Transformation:</strong> Played a pivotal role in bringing about significant changes in the telecommunications market across South America.</li>
+    <li><strong>Industrial Robotics in Brazil:</strong> Introduced unique and cutting-edge technologies in industrial robotics to the Brazilian market.</li>
+  </ul>
+
+  <h3>Current Focus</h3>
+
+  <p>In my recent endeavors, I've been dedicated to developing long-term and robust solutions for the Citizen Identity market. As a professional in Technical Sales, Business Development, and Product Development and Management, I take pride in offering a unique perspective to every project. My commitment to innovation drives me to constantly seek new solutions that contribute to the success of businesses.</p>
+
+  <h2>Beyond Engineering</h2>
+
+  <p>Outside the realm of engineering, I am always on the lookout for new opportunities to grow and explore diverse interests. Some of my dream-building activities include co-owning a coffee shop, making strategic investments, and being an enthusiastic advocate for Web3 technologies.</p>
+
+  <h2>Let's Connect!</h2>
+
+  <p>I'm passionate about collaboration and knowledge sharing. If you're interested in technology, business, or just want to connect, feel free to reach out. Let's build something amazing together!</p>
+
+  <p><a href="#" target="_blank">LinkedIn</a> | <a href="#" target="_blank">Twitter</a> | <a href="#" target="_blank">Personal Website/Blog</a></p>
+
+  <p>Cheers to innovation and endless possibilities! 🚀</p>
+
+</body>
+</html>
