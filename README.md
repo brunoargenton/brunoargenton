@@ -6,9 +6,9 @@ Hello there! I'm Bruno, an enthusiastic Electrical Engineer with a decade of exp
 
 ## :chart_with_upwards_trend: My Impacts_
 
-**Solar Energy Innovation in Guatemala:** Helped some brillian people to develop a unique business model for solar energy, contributing to positive changes in the energy landscape in Guatemala.
-**Telecommunications Market Transformation:** Played a pivotal role in bringing significant changes in the telecommunications market across South America.
-**Industrial Robotics in Brazil:** Introduced unique and cutting-edge technologies in industrial robotics to the Brazilian market.
+- **Solar Energy Innovation in Guatemala:** Helped some brillian people to develop a unique business model for solar energy, contributing to positive changes in the energy landscape in Guatemala.
+- **Telecommunications Market Transformation:** Played a pivotal role in bringing significant changes in the telecommunications market across South America.
+- **Industrial Robotics in Brazil:** Introduced unique and cutting-edge technologies in industrial robotics to the Brazilian market.
 
 ## 💡 Current Focus_
 
