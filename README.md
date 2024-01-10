@@ -22,6 +22,6 @@ Outside the realm of engineering, I am always on the lookout for new opportuniti
 
 I'm passionate about collaboration and knowledge sharing. If you're interested in technology, business, or just want to connect, feel free to reach out. Let's build something amazing together!
 
-[LinkedIn](https://www.linkedin.com/in/brunoargenton/) | [Personal Website](www.brunoargenton.com)
+[LinkedIn](https://www.linkedin.com/in/brunoargenton/) | [Personal Website](https://www.brunoargenton.com)
 
 Cheers to innovation and endless possibilities! 🚀
